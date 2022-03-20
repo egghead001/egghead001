@@ -1,4 +1,53 @@
 * {
-   font-family: Verdana; 
+   font-family: Verdana;
+   background-color: black;
+   padding: 0;
+   margin: 0;
+   text-align: center;
 }
 
+h1 {
+    color: white;
+}
+
+.section-title{
+    padding: 30px;
+}
+
+#discover h1 {
+    font-size: 50px;
+    margin: 30px 0 0 0;
+    font-weight: normal;
+}
+
+.download-link{
+    font-size: 16px;
+    color: aquamarine;
+    margin: 0 0 20px 0;
+    text-decoration: underline;
+}
+
+#your-guide h1 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+#your-guide p {
+    font-size: 21px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+#your-guide img {
+    margin-bottom: 50px;
+}
+
+#coming-soon h1 {
+    font-size: 42px;
+    font-weight: 300;
+    padding: 20px 0 20px 0;
+}
+
+#coming-soon p {
+    margin-bottom: 50px;
+}
